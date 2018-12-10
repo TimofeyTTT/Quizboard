@@ -3,9 +3,12 @@
 ### BDD
 Specifications:Quiz board
 
-Mark out your answers
+Mark out your answers      
+
 Submit answers
+
 The program checks the results in the backend
+
 The program returns the result
 
 ### Description
