@@ -7,7 +7,7 @@ A JavaScript Quiz board with questions on the topic, that returns your result at
 No setup is really required. All you need is internet connection.
 
 ### BDD
-Specifications:Quiz board
+Specifications:Quiz board.
 
 Mark out your answers      
 
