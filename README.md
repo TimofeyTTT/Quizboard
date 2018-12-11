@@ -1,7 +1,7 @@
 # QUIZ BOARD 
 
 ### Description
-A JavaScript Quiz board with questions on the topic, that returns your result at the end and gives total score attained in total.
+A JavaScript Quiz board with questions on the topic, that returns your result at the end and gives total score attained in total..
 
 ### Setup/Installation Requirements
 No setup required. All you need is internet connection.
