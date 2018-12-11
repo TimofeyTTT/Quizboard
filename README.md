@@ -15,7 +15,7 @@ Submit answers
 
 The program checks the results in the backend
 
-The program returns the result
+The program returns the result.
 
 
 ### Known Bugs
