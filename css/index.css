@@ -1,7 +1,21 @@
-body{
-  background-size: cover;
-  image-resolution: from-image;
+h1{
+  font-size: 70px;
+  font-style: italic;
 }
-img{
-  float: right;
+body{
+  font-style: oblique;
+  color: black;
+  background-image: url(../photos/ja.gif);
+  background-size: cover;
+}
+#finalOutput{
+  display: none;
+}
+.container{
+  background-image: url(../photos/ja.gif);
+}
+.jumbotron{
+margin: 10px;
+border-radius: 5px;
+
 }
