@@ -39,9 +39,13 @@ No known bugs at the moment but if you encounter any feel free to contact me.
 
 ### Technologies Used
 HTML
+
 CSS
+
 BOOTSTRAP
+
 JQUERY
+
 JAVASCRIPT.
 
 
