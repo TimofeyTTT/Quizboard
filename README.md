@@ -1,5 +1,7 @@
 # QUIZ BOARD 
 
+### made by Timothy Ortega
+
 ### Description
 A JavaScript Quiz board with questions on the topic, that returns your result at the end and gives total score attained in total.
 
